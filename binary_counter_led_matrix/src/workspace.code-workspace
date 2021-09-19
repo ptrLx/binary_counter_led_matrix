@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "binary_counter_led_matrix",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
